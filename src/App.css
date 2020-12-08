@@ -1,0 +1,91 @@
+
+
+
+
+
+.Background-img {
+  text-align: center;
+  background-image: url("./img/background.jpg");
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+
+}
+
+.container-form {
+  text-align: center;
+  position: fixed;
+  left: 17%;
+  top: 30%;
+  min-width: auto;
+  min-height: auto;
+  color: white;
+}
+
+.home-form {
+  text-align: left;
+  position: fixed;
+
+}
+
+
+
+
+
+
+
+.code-required {
+  background-color:  white;
+  width: 300px;
+  height : 100%;
+}
+
+
+.select-province {
+  left: 0px;
+  width : 250px;
+  height : 100%;
+  text-align: left;
+  background-color:  white;
+}
+
+
+
+.input-school {
+  width : 300px;
+  background-color:  white;
+  height : 100%;
+}
+
+
+
+
+
+.grid-container {
+  
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+
+
+.recaptcha {
+  text-align: left;
+  position: absolute;
+  left: 0px;
+  margin-top: 30px;
+
+}
+
+.home-button{
+  width: 150px;
+}
+
+.Navbar{
+  height : 60px;
+}
+
